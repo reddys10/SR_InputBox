@@ -1,0 +1,24 @@
+/* Style sheet */
+.qv-object-SR_InputBox .SRinput{
+  
+  display:block;
+  margin:auto;
+  border-radius:5px;
+  min-width:100px;
+  width:90%;
+  height:35px;
+  font-family: sans-serif;
+  font-size: 18px;
+  border: solid 1px #92CBDE;
+  padding:7px;
+  
+}
+
+ .qv-object-SR_InputBox ::-webkit-input-placeholder {
+   text-align: center;
+}
+
+.qv-object-SR_InputBox :-ms-input-placeholder {  
+   text-align: center; 
+}
+

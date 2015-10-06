@@ -1,0 +1,9 @@
+{
+	"name": "SR_InputBox",
+	"description": "Input box for updating variables",
+	"icon": "extension",
+	"type": "visualization",
+	"version": 1,
+	"preview": "bar",
+	"author": "Sangram Reddy(sangram@sanridge.co.uk)"
+}
